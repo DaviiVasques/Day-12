@@ -1,0 +1,14 @@
+/home/davi/Área de Trabalho/Exercicios/Polimorfismo/Day 12/bin/Debug/net8.0/Day 12
+/home/davi/Área de Trabalho/Exercicios/Polimorfismo/Day 12/bin/Debug/net8.0/Day 12.deps.json
+/home/davi/Área de Trabalho/Exercicios/Polimorfismo/Day 12/bin/Debug/net8.0/Day 12.runtimeconfig.json
+/home/davi/Área de Trabalho/Exercicios/Polimorfismo/Day 12/bin/Debug/net8.0/Day 12.dll
+/home/davi/Área de Trabalho/Exercicios/Polimorfismo/Day 12/bin/Debug/net8.0/Day 12.pdb
+/home/davi/Área de Trabalho/Exercicios/Polimorfismo/Day 12/obj/Debug/net8.0/Day 12.GeneratedMSBuildEditorConfig.editorconfig
+/home/davi/Área de Trabalho/Exercicios/Polimorfismo/Day 12/obj/Debug/net8.0/Day 12.AssemblyInfoInputs.cache
+/home/davi/Área de Trabalho/Exercicios/Polimorfismo/Day 12/obj/Debug/net8.0/Day 12.AssemblyInfo.cs
+/home/davi/Área de Trabalho/Exercicios/Polimorfismo/Day 12/obj/Debug/net8.0/Day 12.csproj.CoreCompileInputs.cache
+/home/davi/Área de Trabalho/Exercicios/Polimorfismo/Day 12/obj/Debug/net8.0/Day 12.dll
+/home/davi/Área de Trabalho/Exercicios/Polimorfismo/Day 12/obj/Debug/net8.0/refint/Day 12.dll
+/home/davi/Área de Trabalho/Exercicios/Polimorfismo/Day 12/obj/Debug/net8.0/Day 12.pdb
+/home/davi/Área de Trabalho/Exercicios/Polimorfismo/Day 12/obj/Debug/net8.0/Day 12.genruntimeconfig.cache
+/home/davi/Área de Trabalho/Exercicios/Polimorfismo/Day 12/obj/Debug/net8.0/ref/Day 12.dll
